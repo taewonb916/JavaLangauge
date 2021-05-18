@@ -8,6 +8,7 @@ public class ConstructorIdPw {
 		Scanner sc = new Scanner(System.in);	
 		String ids = sc.nextLine();
 		rid = ids;
+		
 	}
 	
 	public void constructorPw() {
